@@ -1,0 +1,1 @@
+define(function() { return [{"appname":"", "appid":"why_crochet", "path":"why_crochet.html"},{"appname":"", "appid":"tools_you_need", "path":"tools_you_need.html"},{"appname":"", "appid":"how_to_chain_stitch", "path":"how_to_chain_stitch.html"}]});
